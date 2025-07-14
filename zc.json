@@ -4,13 +4,7 @@
   "Children": [
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          248,
-          248,
-          248
-        ]
-      },
+      "Properties": {},
       "Children": [
         {
           "Type": "Script",
@@ -21,35 +15,17 @@
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          124,
-          92,
-          70
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          124,
-          92,
-          70
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          40,
-          127,
-          71
-        ]
-      },
+      "Properties": {},
       "Children": [
         {
           "Type": "SpecialMesh",
@@ -60,13 +36,7 @@
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          75,
-          151,
-          75
-        ]
-      },
+      "Properties": {},
       "Children": [
         {
           "Type": "SpecialMesh",
@@ -77,68 +47,32 @@
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          124,
-          92,
-          70
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          124,
-          92,
-          70
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          124,
-          92,
-          70
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          124,
-          92,
-          70
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          124,
-          92,
-          70
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          40,
-          127,
-          71
-        ]
-      },
+      "Properties": {},
       "Children": [
         {
           "Type": "SpecialMesh",
@@ -149,13 +83,7 @@
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          75,
-          151,
-          75
-        ]
-      },
+      "Properties": {},
       "Children": [
         {
           "Type": "SpecialMesh",
@@ -166,68 +94,32 @@
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          105,
-          64,
-          40
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          105,
-          64,
-          40
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          124,
-          92,
-          70
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          105,
-          64,
-          40
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          160,
-          95,
-          53
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          75,
-          151,
-          75
-        ]
-      },
+      "Properties": {},
       "Children": [
         {
           "Type": "SpecialMesh",
@@ -238,167 +130,77 @@
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          105,
-          64,
-          40
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          105,
-          64,
-          40
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          105,
-          64,
-          40
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          105,
-          64,
-          40
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          160,
-          95,
-          53
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "WedgePart",
-      "Properties": {
-        "Color": [
-          160,
-          95,
-          53
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "WedgePart",
-      "Properties": {
-        "Color": [
-          160,
-          95,
-          53
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          105,
-          64,
-          40
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "WedgePart",
-      "Properties": {
-        "Color": [
-          160,
-          95,
-          53
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "WedgePart",
-      "Properties": {
-        "Color": [
-          160,
-          95,
-          53
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          160,
-          95,
-          53
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          160,
-          95,
-          53
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "WedgePart",
-      "Properties": {
-        "Color": [
-          160,
-          95,
-          53
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "WedgePart",
-      "Properties": {
-        "Color": [
-          160,
-          95,
-          53
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          40,
-          127,
-          71
-        ]
-      },
+      "Properties": {},
       "Children": [
         {
           "Type": "SpecialMesh",
@@ -409,46 +211,22 @@
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          105,
-          64,
-          40
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          105,
-          64,
-          40
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "WedgePart",
-      "Properties": {
-        "Color": [
-          160,
-          95,
-          53
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          75,
-          151,
-          75
-        ]
-      },
+      "Properties": {},
       "Children": [
         {
           "Type": "SpecialMesh",
@@ -459,13 +237,7 @@
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          40,
-          127,
-          71
-        ]
-      },
+      "Properties": {},
       "Children": [
         {
           "Type": "SpecialMesh",
@@ -476,57 +248,27 @@
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          124,
-          92,
-          70
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          105,
-          64,
-          40
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          160,
-          95,
-          53
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          160,
-          95,
-          53
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          180,
-          210,
-          228
-        ]
-      },
+      "Properties": {},
       "Children": [
         {
           "Type": "BlockMesh",
@@ -537,134 +279,62 @@
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          105,
-          64,
-          40
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          105,
-          64,
-          40
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          160,
-          95,
-          53
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          160,
-          95,
-          53
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          105,
-          64,
-          40
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          105,
-          64,
-          40
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          105,
-          64,
-          40
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          160,
-          95,
-          53
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          160,
-          95,
-          53
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          160,
-          95,
-          53
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          105,
-          64,
-          40
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          180,
-          210,
-          228
-        ]
-      },
+      "Properties": {},
       "Children": [
         {
           "Type": "BlockMesh",
@@ -675,123 +345,57 @@
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          160,
-          95,
-          53
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          124,
-          92,
-          70
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          160,
-          95,
-          53
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "WedgePart",
-      "Properties": {
-        "Color": [
-          160,
-          95,
-          53
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          160,
-          95,
-          53
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          160,
-          95,
-          53
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          160,
-          95,
-          53
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "WedgePart",
-      "Properties": {
-        "Color": [
-          160,
-          95,
-          53
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          105,
-          64,
-          40
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          105,
-          64,
-          40
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          180,
-          210,
-          228
-        ]
-      },
+      "Properties": {},
       "Children": [
         {
           "Type": "BlockMesh",
@@ -802,387 +406,177 @@
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          105,
-          64,
-          40
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "WedgePart",
-      "Properties": {
-        "Color": [
-          160,
-          95,
-          53
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          105,
-          64,
-          40
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          160,
-          95,
-          53
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "WedgePart",
-      "Properties": {
-        "Color": [
-          160,
-          95,
-          53
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "WedgePart",
-      "Properties": {
-        "Color": [
-          160,
-          95,
-          53
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          105,
-          64,
-          40
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          105,
-          64,
-          40
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          105,
-          64,
-          40
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          105,
-          64,
-          40
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          105,
-          64,
-          40
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "WedgePart",
-      "Properties": {
-        "Color": [
-          105,
-          64,
-          40
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          160,
-          95,
-          53
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "WedgePart",
-      "Properties": {
-        "Color": [
-          160,
-          95,
-          53
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "WedgePart",
-      "Properties": {
-        "Color": [
-          160,
-          95,
-          53
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          105,
-          64,
-          40
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          105,
-          64,
-          40
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          105,
-          64,
-          40
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          204,
-          142,
-          105
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          105,
-          64,
-          40
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          124,
-          92,
-          70
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          105,
-          64,
-          40
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          160,
-          95,
-          53
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          105,
-          64,
-          40
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          160,
-          95,
-          53
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          105,
-          64,
-          40
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          105,
-          64,
-          40
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          105,
-          64,
-          40
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          105,
-          64,
-          40
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          160,
-          95,
-          53
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          105,
-          64,
-          40
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          105,
-          64,
-          40
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          105,
-          64,
-          40
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          105,
-          64,
-          40
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          180,
-          210,
-          228
-        ]
-      },
+      "Properties": {},
       "Children": [
         {
           "Type": "BlockMesh",
@@ -1193,13 +587,7 @@
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          180,
-          210,
-          228
-        ]
-      },
+      "Properties": {},
       "Children": [
         {
           "Type": "BlockMesh",
@@ -1210,673 +598,307 @@
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          160,
-          95,
-          53
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          160,
-          95,
-          53
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          105,
-          64,
-          40
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "WedgePart",
-      "Properties": {
-        "Color": [
-          160,
-          95,
-          53
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          160,
-          95,
-          53
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          160,
-          95,
-          53
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "WedgePart",
-      "Properties": {
-        "Color": [
-          160,
-          95,
-          53
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          105,
-          64,
-          40
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          105,
-          64,
-          40
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          160,
-          95,
-          53
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          160,
-          95,
-          53
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          160,
-          95,
-          53
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          105,
-          64,
-          40
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          105,
-          64,
-          40
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          105,
-          64,
-          40
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          160,
-          95,
-          53
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          105,
-          64,
-          40
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          105,
-          64,
-          40
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          204,
-          142,
-          105
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          204,
-          142,
-          105
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          204,
-          142,
-          105
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          105,
-          64,
-          40
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          204,
-          142,
-          105
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "WedgePart",
-      "Properties": {
-        "Color": [
-          105,
-          64,
-          40
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          105,
-          64,
-          40
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          105,
-          64,
-          40
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          105,
-          64,
-          40
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          105,
-          64,
-          40
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "WedgePart",
-      "Properties": {
-        "Color": [
-          105,
-          64,
-          40
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "WedgePart",
-      "Properties": {
-        "Color": [
-          105,
-          64,
-          40
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          105,
-          64,
-          40
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          105,
-          64,
-          40
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          204,
-          142,
-          105
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "WedgePart",
-      "Properties": {
-        "Color": [
-          160,
-          95,
-          53
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          160,
-          95,
-          53
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          105,
-          64,
-          40
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "WedgePart",
-      "Properties": {
-        "Color": [
-          105,
-          64,
-          40
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          160,
-          95,
-          53
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          105,
-          64,
-          40
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          124,
-          92,
-          70
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          105,
-          64,
-          40
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          105,
-          64,
-          40
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          160,
-          95,
-          53
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          105,
-          64,
-          40
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          105,
-          64,
-          40
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          204,
-          142,
-          105
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          204,
-          142,
-          105
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          204,
-          142,
-          105
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          204,
-          142,
-          105
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          204,
-          142,
-          105
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          105,
-          64,
-          40
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          105,
-          64,
-          40
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          204,
-          142,
-          105
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          105,
-          64,
-          40
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          204,
-          142,
-          105
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          160,
-          95,
-          53
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "WedgePart",
-      "Properties": {
-        "Color": [
-          160,
-          95,
-          53
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "WedgePart",
-      "Properties": {
-        "Color": [
-          160,
-          95,
-          53
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          160,
-          95,
-          53
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          105,
-          64,
-          40
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          180,
-          210,
-          228
-        ]
-      },
+      "Properties": {},
       "Children": [
         {
           "Type": "BlockMesh",
@@ -1887,79 +909,37 @@
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          204,
-          142,
-          105
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          105,
-          64,
-          40
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          160,
-          95,
-          53
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          160,
-          95,
-          53
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          105,
-          64,
-          40
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          105,
-          64,
-          40
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          180,
-          210,
-          228
-        ]
-      },
+      "Properties": {},
       "Children": [
         {
           "Type": "BlockMesh",
@@ -1970,13 +950,7 @@
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          180,
-          210,
-          228
-        ]
-      },
+      "Properties": {},
       "Children": [
         {
           "Type": "BlockMesh",
@@ -1987,1311 +961,597 @@
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          105,
-          64,
-          40
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          160,
-          95,
-          53
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          105,
-          64,
-          40
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "WedgePart",
-      "Properties": {
-        "Color": [
-          105,
-          64,
-          40
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "TrussPart",
-      "Properties": {
-        "Color": [
-          124,
-          92,
-          70
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          204,
-          142,
-          105
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          105,
-          64,
-          40
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          105,
-          64,
-          40
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          105,
-          64,
-          40
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "TrussPart",
-      "Properties": {
-        "Color": [
-          124,
-          92,
-          70
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "TrussPart",
-      "Properties": {
-        "Color": [
-          124,
-          92,
-          70
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          105,
-          64,
-          40
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          124,
-          92,
-          70
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          105,
-          64,
-          40
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          105,
-          64,
-          40
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          105,
-          64,
-          40
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          105,
-          64,
-          40
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          105,
-          64,
-          40
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          204,
-          142,
-          105
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          105,
-          64,
-          40
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          105,
-          64,
-          40
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          105,
-          64,
-          40
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          204,
-          142,
-          105
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          204,
-          142,
-          105
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          204,
-          142,
-          105
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          204,
-          142,
-          105
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          204,
-          142,
-          105
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          204,
-          142,
-          105
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          204,
-          142,
-          105
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          105,
-          64,
-          40
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "TrussPart",
-      "Properties": {
-        "Color": [
-          124,
-          92,
-          70
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "TrussPart",
-      "Properties": {
-        "Color": [
-          124,
-          92,
-          70
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "TrussPart",
-      "Properties": {
-        "Color": [
-          124,
-          92,
-          70
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          105,
-          64,
-          40
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          105,
-          64,
-          40
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "TrussPart",
-      "Properties": {
-        "Color": [
-          124,
-          92,
-          70
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "TrussPart",
-      "Properties": {
-        "Color": [
-          124,
-          92,
-          70
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          105,
-          64,
-          40
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          105,
-          64,
-          40
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          160,
-          95,
-          53
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          105,
-          64,
-          40
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          105,
-          64,
-          40
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          105,
-          64,
-          40
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          105,
-          64,
-          40
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          204,
-          142,
-          105
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          204,
-          142,
-          105
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          124,
-          92,
-          70
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          204,
-          142,
-          105
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          105,
-          64,
-          40
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          204,
-          142,
-          105
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          105,
-          64,
-          40
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          105,
-          64,
-          40
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          204,
-          142,
-          105
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          204,
-          142,
-          105
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          204,
-          142,
-          105
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          204,
-          142,
-          105
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          204,
-          142,
-          105
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          105,
-          64,
-          40
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          204,
-          142,
-          105
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          105,
-          64,
-          40
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          105,
-          64,
-          40
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          105,
-          64,
-          40
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          204,
-          142,
-          105
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          204,
-          142,
-          105
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          204,
-          142,
-          105
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          204,
-          142,
-          105
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          204,
-          142,
-          105
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          105,
-          64,
-          40
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          105,
-          64,
-          40
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          105,
-          64,
-          40
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          105,
-          64,
-          40
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          105,
-          64,
-          40
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          105,
-          64,
-          40
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          204,
-          142,
-          105
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          105,
-          64,
-          40
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          204,
-          142,
-          105
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          204,
-          142,
-          105
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          105,
-          64,
-          40
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          105,
-          64,
-          40
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "WedgePart",
-      "Properties": {
-        "Color": [
-          124,
-          92,
-          70
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "WedgePart",
-      "Properties": {
-        "Color": [
-          124,
-          92,
-          70
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          204,
-          142,
-          105
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          105,
-          64,
-          40
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          204,
-          142,
-          105
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          204,
-          142,
-          105
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          204,
-          142,
-          105
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          204,
-          142,
-          105
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          204,
-          142,
-          105
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          204,
-          142,
-          105
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          105,
-          64,
-          40
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          105,
-          64,
-          40
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          105,
-          64,
-          40
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "WedgePart",
-      "Properties": {
-        "Color": [
-          124,
-          92,
-          70
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "WedgePart",
-      "Properties": {
-        "Color": [
-          124,
-          92,
-          70
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "WedgePart",
-      "Properties": {
-        "Color": [
-          124,
-          92,
-          70
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "WedgePart",
-      "Properties": {
-        "Color": [
-          124,
-          92,
-          70
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          204,
-          142,
-          105
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          204,
-          142,
-          105
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          204,
-          142,
-          105
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          105,
-          64,
-          40
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          204,
-          142,
-          105
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          204,
-          142,
-          105
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          204,
-          142,
-          105
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          204,
-          142,
-          105
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          105,
-          64,
-          40
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          204,
-          142,
-          105
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          105,
-          64,
-          40
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          105,
-          64,
-          40
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          105,
-          64,
-          40
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "TrussPart",
-      "Properties": {
-        "Color": [
-          124,
-          92,
-          70
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "TrussPart",
-      "Properties": {
-        "Color": [
-          124,
-          92,
-          70
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "TrussPart",
-      "Properties": {
-        "Color": [
-          124,
-          92,
-          70
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "TrussPart",
-      "Properties": {
-        "Color": [
-          124,
-          92,
-          70
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "TrussPart",
-      "Properties": {
-        "Color": [
-          124,
-          92,
-          70
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "TrussPart",
-      "Properties": {
-        "Color": [
-          124,
-          92,
-          70
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "TrussPart",
-      "Properties": {
-        "Color": [
-          124,
-          92,
-          70
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "TrussPart",
-      "Properties": {
-        "Color": [
-          124,
-          92,
-          70
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          105,
-          64,
-          40
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          248,
-          248,
-          248
-        ]
-      },
+      "Properties": {},
       "Children": [
         {
           "Type": "Script",
@@ -3302,211 +1562,97 @@
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          105,
-          64,
-          40
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "WedgePart",
-      "Properties": {
-        "Color": [
-          124,
-          92,
-          70
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "WedgePart",
-      "Properties": {
-        "Color": [
-          124,
-          92,
-          70
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          204,
-          142,
-          105
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          204,
-          142,
-          105
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          204,
-          142,
-          105
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          204,
-          142,
-          105
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          204,
-          142,
-          105
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          204,
-          142,
-          105
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          204,
-          142,
-          105
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          105,
-          64,
-          40
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          204,
-          142,
-          105
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "WedgePart",
-      "Properties": {
-        "Color": [
-          105,
-          64,
-          40
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "WedgePart",
-      "Properties": {
-        "Color": [
-          105,
-          64,
-          40
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          204,
-          142,
-          105
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          204,
-          142,
-          105
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "WedgePart",
-      "Properties": {
-        "Color": [
-          105,
-          64,
-          40
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "Part",
-      "Properties": {
-        "Color": [
-          204,
-          142,
-          105
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
       "Type": "WedgePart",
-      "Properties": {
-        "Color": [
-          105,
-          64,
-          40
-        ]
-      },
+      "Properties": {},
       "Children": []
     },
     {
