@@ -10,22 +10,23 @@
           {
             "Type": "Script",
             "Name": "RemoveScript",
-            "Children": []
+            "Children": [],
+            "Anchored": true
           }
         ],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
@@ -34,10 +35,11 @@
           {
             "Type": "SpecialMesh",
             "Name": "Mesh",
-            "Children": []
+            "Children": [],
+            "Anchored": true
           }
         ],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
@@ -46,40 +48,41 @@
           {
             "Type": "SpecialMesh",
             "Name": "Mesh",
-            "Children": []
+            "Children": [],
+            "Anchored": true
           }
         ],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
@@ -88,10 +91,11 @@
           {
             "Type": "SpecialMesh",
             "Name": "Mesh",
-            "Children": []
+            "Children": [],
+            "Anchored": true
           }
         ],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
@@ -100,40 +104,41 @@
           {
             "Type": "SpecialMesh",
             "Name": "Mesh",
-            "Children": []
+            "Children": [],
+            "Anchored": true
           }
         ],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
@@ -142,94 +147,95 @@
           {
             "Type": "SpecialMesh",
             "Name": "Mesh",
-            "Children": []
+            "Children": [],
+            "Anchored": true
           }
         ],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "WedgePart",
         "Name": "Wedge",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "WedgePart",
         "Name": "Wedge",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "WedgePart",
         "Name": "Wedge",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "WedgePart",
         "Name": "Wedge",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "WedgePart",
         "Name": "Wedge",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "WedgePart",
         "Name": "Wedge",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
@@ -238,28 +244,29 @@
           {
             "Type": "SpecialMesh",
             "Name": "Mesh",
-            "Children": []
+            "Children": [],
+            "Anchored": true
           }
         ],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "WedgePart",
         "Name": "Wedge",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
@@ -268,10 +275,11 @@
           {
             "Type": "SpecialMesh",
             "Name": "Mesh",
-            "Children": []
+            "Children": [],
+            "Anchored": true
           }
         ],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
@@ -280,34 +288,35 @@
           {
             "Type": "SpecialMesh",
             "Name": "Mesh",
-            "Children": []
+            "Children": [],
+            "Anchored": true
           }
         ],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
@@ -316,76 +325,77 @@
           {
             "Type": "BlockMesh",
             "Name": "Mesh",
-            "Children": []
+            "Children": [],
+            "Anchored": true
           }
         ],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
@@ -394,70 +404,71 @@
           {
             "Type": "BlockMesh",
             "Name": "Mesh",
-            "Children": []
+            "Children": [],
+            "Anchored": true
           }
         ],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "WedgePart",
         "Name": "Wedge",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "WedgePart",
         "Name": "Wedge",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
@@ -466,214 +477,215 @@
           {
             "Type": "BlockMesh",
             "Name": "Mesh",
-            "Children": []
+            "Children": [],
+            "Anchored": true
           }
         ],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "WedgePart",
         "Name": "Wedge",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "WedgePart",
         "Name": "Wedge",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "WedgePart",
         "Name": "Wedge",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "WedgePart",
         "Name": "Wedge",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "WedgePart",
         "Name": "Wedge",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "WedgePart",
         "Name": "Wedge",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
@@ -682,10 +694,11 @@
           {
             "Type": "BlockMesh",
             "Name": "Mesh",
-            "Children": []
+            "Children": [],
+            "Anchored": true
           }
         ],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
@@ -694,370 +707,371 @@
           {
             "Type": "BlockMesh",
             "Name": "Mesh",
-            "Children": []
+            "Children": [],
+            "Anchored": true
           }
         ],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "WedgePart",
         "Name": "Wedge",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "WedgePart",
         "Name": "Wedge",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "WedgePart",
         "Name": "Wedge",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "WedgePart",
         "Name": "Wedge",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "WedgePart",
         "Name": "Wedge",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "WedgePart",
         "Name": "Wedge",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "WedgePart",
         "Name": "Wedge",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "WedgePart",
         "Name": "Wedge",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "WedgePart",
         "Name": "Wedge",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
@@ -1066,46 +1080,47 @@
           {
             "Type": "BlockMesh",
             "Name": "Mesh",
-            "Children": []
+            "Children": [],
+            "Anchored": true
           }
         ],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
@@ -1114,10 +1129,11 @@
           {
             "Type": "BlockMesh",
             "Name": "Mesh",
-            "Children": []
+            "Children": [],
+            "Anchored": true
           }
         ],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
@@ -1126,718 +1142,719 @@
           {
             "Type": "BlockMesh",
             "Name": "Mesh",
-            "Children": []
+            "Children": [],
+            "Anchored": true
           }
         ],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "WedgePart",
         "Name": "Wedge",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "TrussPart",
         "Name": "Truss",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "TrussPart",
         "Name": "Truss",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "TrussPart",
         "Name": "Truss",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Trunk",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "TrussPart",
         "Name": "Truss",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "TrussPart",
         "Name": "Truss",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "TrussPart",
         "Name": "Truss",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "TrussPart",
         "Name": "Truss",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "TrussPart",
         "Name": "Truss",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "WedgePart",
         "Name": "Wedge",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "WedgePart",
         "Name": "Wedge",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "WedgePart",
         "Name": "Wedge",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "WedgePart",
         "Name": "Wedge",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "WedgePart",
         "Name": "Wedge",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "WedgePart",
         "Name": "Wedge",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "TrussPart",
         "Name": "Truss",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "TrussPart",
         "Name": "Truss",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "TrussPart",
         "Name": "Truss",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "TrussPart",
         "Name": "Truss",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "TrussPart",
         "Name": "Truss",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "TrussPart",
         "Name": "Truss",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "TrussPart",
         "Name": "Truss",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "TrussPart",
         "Name": "Truss",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
@@ -1846,130 +1863,133 @@
           {
             "Type": "Script",
             "Name": "RemoveScript",
-            "Children": []
+            "Children": [],
+            "Anchored": true
           }
         ],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "WedgePart",
         "Name": "Wedge",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "WedgePart",
         "Name": "Wedge",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "WedgePart",
         "Name": "Wedge",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "WedgePart",
         "Name": "Wedge",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "WedgePart",
         "Name": "Wedge",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Part",
         "Name": "Part",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "WedgePart",
         "Name": "Wedge",
         "Children": [],
-        "Anchored": false
+        "Anchored": true
       },
       {
         "Type": "Camera",
         "Name": "ThumbnailCamera",
-        "Children": []
+        "Children": [],
+        "Anchored": true
       }
-    ]
+    ],
+    "Anchored": true
   }
 ]
