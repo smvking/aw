@@ -1,12 +1,15 @@
 [
     {
         "Type": "Model",
+        "Name": "RBX0",
         "Children": [
             {
                 "Type": "Part",
+                "Name": "RBX1",
                 "Children": [
                     {
                         "Type": "Script",
+                        "Name": "RBX2",
                         "Children": []
                     }
                 ],
@@ -19,6 +22,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX3",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -29,6 +33,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX4",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -39,9 +44,11 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX5",
                 "Children": [
                     {
                         "Type": "SpecialMesh",
+                        "Name": "RBX6",
                         "Children": []
                     }
                 ],
@@ -54,9 +61,11 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX7",
                 "Children": [
                     {
                         "Type": "SpecialMesh",
+                        "Name": "RBX8",
                         "Children": []
                     }
                 ],
@@ -69,6 +78,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX9",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -79,6 +89,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX10",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -89,6 +100,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX11",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -99,6 +111,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX12",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -109,6 +122,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX13",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -119,9 +133,11 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX14",
                 "Children": [
                     {
                         "Type": "SpecialMesh",
+                        "Name": "RBX15",
                         "Children": []
                     }
                 ],
@@ -134,9 +150,11 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX16",
                 "Children": [
                     {
                         "Type": "SpecialMesh",
+                        "Name": "RBX17",
                         "Children": []
                     }
                 ],
@@ -149,6 +167,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX18",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -159,6 +178,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX19",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -169,6 +189,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX20",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -179,6 +200,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX21",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -189,6 +211,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX22",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -199,9 +222,11 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX23",
                 "Children": [
                     {
                         "Type": "SpecialMesh",
+                        "Name": "RBX24",
                         "Children": []
                     }
                 ],
@@ -214,6 +239,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX25",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -224,6 +250,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX26",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -234,6 +261,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX27",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -244,6 +272,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX28",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -254,24 +283,7 @@
             },
             {
                 "Type": "Part",
-                "Children": [],
-                "Anchored": true,
-                "Size": [
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            },
-            {
-                "Type": "WedgePart",
-                "Children": []
-            },
-            {
-                "Type": "WedgePart",
-                "Children": []
-            },
-            {
-                "Type": "Part",
+                "Name": "RBX29",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -282,14 +294,38 @@
             },
             {
                 "Type": "WedgePart",
+                "Name": "RBX30",
                 "Children": []
             },
             {
                 "Type": "WedgePart",
+                "Name": "RBX31",
                 "Children": []
             },
             {
                 "Type": "Part",
+                "Name": "RBX32",
+                "Children": [],
+                "Anchored": true,
+                "Size": [
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "Type": "WedgePart",
+                "Name": "RBX33",
+                "Children": []
+            },
+            {
+                "Type": "WedgePart",
+                "Name": "RBX34",
+                "Children": []
+            },
+            {
+                "Type": "Part",
+                "Name": "RBX35",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -300,6 +336,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX36",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -310,17 +347,21 @@
             },
             {
                 "Type": "WedgePart",
+                "Name": "RBX37",
                 "Children": []
             },
             {
                 "Type": "WedgePart",
+                "Name": "RBX38",
                 "Children": []
             },
             {
                 "Type": "Part",
+                "Name": "RBX39",
                 "Children": [
                     {
                         "Type": "SpecialMesh",
+                        "Name": "RBX40",
                         "Children": []
                     }
                 ],
@@ -333,6 +374,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX41",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -343,6 +385,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX42",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -353,13 +396,16 @@
             },
             {
                 "Type": "WedgePart",
+                "Name": "RBX43",
                 "Children": []
             },
             {
                 "Type": "Part",
+                "Name": "RBX44",
                 "Children": [
                     {
                         "Type": "SpecialMesh",
+                        "Name": "RBX45",
                         "Children": []
                     }
                 ],
@@ -372,9 +418,11 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX46",
                 "Children": [
                     {
                         "Type": "SpecialMesh",
+                        "Name": "RBX47",
                         "Children": []
                     }
                 ],
@@ -387,6 +435,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX48",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -397,6 +446,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX49",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -407,6 +457,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX50",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -417,6 +468,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX51",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -427,9 +479,11 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX52",
                 "Children": [
                     {
                         "Type": "BlockMesh",
+                        "Name": "RBX53",
                         "Children": []
                     }
                 ],
@@ -442,6 +496,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX54",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -452,6 +507,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX55",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -462,6 +518,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX56",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -472,6 +529,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX57",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -482,6 +540,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX58",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -492,6 +551,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX59",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -502,6 +562,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX60",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -512,6 +573,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX61",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -522,6 +584,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX62",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -532,6 +595,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX63",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -542,6 +606,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX64",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -552,9 +617,11 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX65",
                 "Children": [
                     {
                         "Type": "BlockMesh",
+                        "Name": "RBX66",
                         "Children": []
                     }
                 ],
@@ -567,6 +634,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX67",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -577,6 +645,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX68",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -587,40 +656,7 @@
             },
             {
                 "Type": "Part",
-                "Children": [],
-                "Anchored": true,
-                "Size": [
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            },
-            {
-                "Type": "WedgePart",
-                "Children": []
-            },
-            {
-                "Type": "Part",
-                "Children": [],
-                "Anchored": true,
-                "Size": [
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            },
-            {
-                "Type": "Part",
-                "Children": [],
-                "Anchored": true,
-                "Size": [
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            },
-            {
-                "Type": "Part",
+                "Name": "RBX69",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -631,10 +667,12 @@
             },
             {
                 "Type": "WedgePart",
+                "Name": "RBX70",
                 "Children": []
             },
             {
                 "Type": "Part",
+                "Name": "RBX71",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -645,6 +683,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX72",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -655,9 +694,49 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX73",
+                "Children": [],
+                "Anchored": true,
+                "Size": [
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "Type": "WedgePart",
+                "Name": "RBX74",
+                "Children": []
+            },
+            {
+                "Type": "Part",
+                "Name": "RBX75",
+                "Children": [],
+                "Anchored": true,
+                "Size": [
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "Type": "Part",
+                "Name": "RBX76",
+                "Children": [],
+                "Anchored": true,
+                "Size": [
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "Type": "Part",
+                "Name": "RBX77",
                 "Children": [
                     {
                         "Type": "BlockMesh",
+                        "Name": "RBX78",
                         "Children": []
                     }
                 ],
@@ -670,6 +749,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX79",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -680,10 +760,12 @@
             },
             {
                 "Type": "WedgePart",
+                "Name": "RBX80",
                 "Children": []
             },
             {
                 "Type": "Part",
+                "Name": "RBX81",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -694,6 +776,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX82",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -704,14 +787,17 @@
             },
             {
                 "Type": "WedgePart",
+                "Name": "RBX83",
                 "Children": []
             },
             {
                 "Type": "WedgePart",
+                "Name": "RBX84",
                 "Children": []
             },
             {
                 "Type": "Part",
+                "Name": "RBX85",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -722,6 +808,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX86",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -732,6 +819,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX87",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -742,6 +830,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX88",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -752,20 +841,7 @@
             },
             {
                 "Type": "Part",
-                "Children": [],
-                "Anchored": true,
-                "Size": [
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            },
-            {
-                "Type": "WedgePart",
-                "Children": []
-            },
-            {
-                "Type": "Part",
+                "Name": "RBX89",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -776,14 +852,33 @@
             },
             {
                 "Type": "WedgePart",
+                "Name": "RBX90",
+                "Children": []
+            },
+            {
+                "Type": "Part",
+                "Name": "RBX91",
+                "Children": [],
+                "Anchored": true,
+                "Size": [
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "Type": "WedgePart",
+                "Name": "RBX92",
                 "Children": []
             },
             {
                 "Type": "WedgePart",
+                "Name": "RBX93",
                 "Children": []
             },
             {
                 "Type": "Part",
+                "Name": "RBX94",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -794,6 +889,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX95",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -804,6 +900,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX96",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -814,6 +911,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX97",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -824,6 +922,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX98",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -834,6 +933,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX99",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -844,6 +944,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX100",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -854,6 +955,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX101",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -864,6 +966,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX102",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -874,6 +977,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX103",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -884,6 +988,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX104",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -894,6 +999,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX105",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -904,6 +1010,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX106",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -914,6 +1021,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX107",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -924,6 +1032,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX108",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -934,6 +1043,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX109",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -944,6 +1054,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX110",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -954,6 +1065,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX111",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -964,6 +1076,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX112",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -974,9 +1087,11 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX113",
                 "Children": [
                     {
                         "Type": "BlockMesh",
+                        "Name": "RBX114",
                         "Children": []
                     }
                 ],
@@ -989,9 +1104,11 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX115",
                 "Children": [
                     {
                         "Type": "BlockMesh",
+                        "Name": "RBX116",
                         "Children": []
                     }
                 ],
@@ -1004,6 +1121,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX117",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -1014,6 +1132,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX118",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -1024,30 +1143,7 @@
             },
             {
                 "Type": "Part",
-                "Children": [],
-                "Anchored": true,
-                "Size": [
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            },
-            {
-                "Type": "WedgePart",
-                "Children": []
-            },
-            {
-                "Type": "Part",
-                "Children": [],
-                "Anchored": true,
-                "Size": [
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            },
-            {
-                "Type": "Part",
+                "Name": "RBX119",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -1058,10 +1154,12 @@
             },
             {
                 "Type": "WedgePart",
+                "Name": "RBX120",
                 "Children": []
             },
             {
                 "Type": "Part",
+                "Name": "RBX121",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -1072,146 +1170,7 @@
             },
             {
                 "Type": "Part",
-                "Children": [],
-                "Anchored": true,
-                "Size": [
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            },
-            {
-                "Type": "Part",
-                "Children": [],
-                "Anchored": true,
-                "Size": [
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            },
-            {
-                "Type": "Part",
-                "Children": [],
-                "Anchored": true,
-                "Size": [
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            },
-            {
-                "Type": "Part",
-                "Children": [],
-                "Anchored": true,
-                "Size": [
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            },
-            {
-                "Type": "Part",
-                "Children": [],
-                "Anchored": true,
-                "Size": [
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            },
-            {
-                "Type": "Part",
-                "Children": [],
-                "Anchored": true,
-                "Size": [
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            },
-            {
-                "Type": "Part",
-                "Children": [],
-                "Anchored": true,
-                "Size": [
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            },
-            {
-                "Type": "Part",
-                "Children": [],
-                "Anchored": true,
-                "Size": [
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            },
-            {
-                "Type": "Part",
-                "Children": [],
-                "Anchored": true,
-                "Size": [
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            },
-            {
-                "Type": "Part",
-                "Children": [],
-                "Anchored": true,
-                "Size": [
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            },
-            {
-                "Type": "Part",
-                "Children": [],
-                "Anchored": true,
-                "Size": [
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            },
-            {
-                "Type": "Part",
-                "Children": [],
-                "Anchored": true,
-                "Size": [
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            },
-            {
-                "Type": "Part",
-                "Children": [],
-                "Anchored": true,
-                "Size": [
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            },
-            {
-                "Type": "Part",
-                "Children": [],
-                "Anchored": true,
-                "Size": [
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            },
-            {
-                "Type": "Part",
+                "Name": "RBX122",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -1222,10 +1181,12 @@
             },
             {
                 "Type": "WedgePart",
+                "Name": "RBX123",
                 "Children": []
             },
             {
                 "Type": "Part",
+                "Name": "RBX124",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -1236,6 +1197,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX125",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -1246,6 +1208,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX126",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -1256,6 +1219,139 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX127",
+                "Children": [],
+                "Anchored": true,
+                "Size": [
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "Type": "Part",
+                "Name": "RBX128",
+                "Children": [],
+                "Anchored": true,
+                "Size": [
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "Type": "Part",
+                "Name": "RBX129",
+                "Children": [],
+                "Anchored": true,
+                "Size": [
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "Type": "Part",
+                "Name": "RBX130",
+                "Children": [],
+                "Anchored": true,
+                "Size": [
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "Type": "Part",
+                "Name": "RBX131",
+                "Children": [],
+                "Anchored": true,
+                "Size": [
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "Type": "Part",
+                "Name": "RBX132",
+                "Children": [],
+                "Anchored": true,
+                "Size": [
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "Type": "Part",
+                "Name": "RBX133",
+                "Children": [],
+                "Anchored": true,
+                "Size": [
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "Type": "Part",
+                "Name": "RBX134",
+                "Children": [],
+                "Anchored": true,
+                "Size": [
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "Type": "Part",
+                "Name": "RBX135",
+                "Children": [],
+                "Anchored": true,
+                "Size": [
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "Type": "Part",
+                "Name": "RBX136",
+                "Children": [],
+                "Anchored": true,
+                "Size": [
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "Type": "Part",
+                "Name": "RBX137",
+                "Children": [],
+                "Anchored": true,
+                "Size": [
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "Type": "Part",
+                "Name": "RBX138",
+                "Children": [],
+                "Anchored": true,
+                "Size": [
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "Type": "Part",
+                "Name": "RBX139",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -1266,48 +1362,12 @@
             },
             {
                 "Type": "WedgePart",
-                "Children": []
-            },
-            {
-                "Type": "WedgePart",
-                "Children": []
-            },
-            {
-                "Type": "Part",
-                "Children": [],
-                "Anchored": true,
-                "Size": [
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            },
-            {
-                "Type": "Part",
-                "Children": [],
-                "Anchored": true,
-                "Size": [
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            },
-            {
-                "Type": "Part",
-                "Children": [],
-                "Anchored": true,
-                "Size": [
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            },
-            {
-                "Type": "WedgePart",
+                "Name": "RBX140",
                 "Children": []
             },
             {
                 "Type": "Part",
+                "Name": "RBX141",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -1318,6 +1378,29 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX142",
+                "Children": [],
+                "Anchored": true,
+                "Size": [
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "Type": "Part",
+                "Name": "RBX143",
+                "Children": [],
+                "Anchored": true,
+                "Size": [
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "Type": "Part",
+                "Name": "RBX144",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -1328,10 +1411,17 @@
             },
             {
                 "Type": "WedgePart",
+                "Name": "RBX145",
+                "Children": []
+            },
+            {
+                "Type": "WedgePart",
+                "Name": "RBX146",
                 "Children": []
             },
             {
                 "Type": "Part",
+                "Name": "RBX147",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -1342,6 +1432,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX148",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -1352,166 +1443,7 @@
             },
             {
                 "Type": "Part",
-                "Children": [],
-                "Anchored": true,
-                "Size": [
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            },
-            {
-                "Type": "Part",
-                "Children": [],
-                "Anchored": true,
-                "Size": [
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            },
-            {
-                "Type": "Part",
-                "Children": [],
-                "Anchored": true,
-                "Size": [
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            },
-            {
-                "Type": "Part",
-                "Children": [],
-                "Anchored": true,
-                "Size": [
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            },
-            {
-                "Type": "Part",
-                "Children": [],
-                "Anchored": true,
-                "Size": [
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            },
-            {
-                "Type": "Part",
-                "Children": [],
-                "Anchored": true,
-                "Size": [
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            },
-            {
-                "Type": "Part",
-                "Children": [],
-                "Anchored": true,
-                "Size": [
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            },
-            {
-                "Type": "Part",
-                "Children": [],
-                "Anchored": true,
-                "Size": [
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            },
-            {
-                "Type": "Part",
-                "Children": [],
-                "Anchored": true,
-                "Size": [
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            },
-            {
-                "Type": "Part",
-                "Children": [],
-                "Anchored": true,
-                "Size": [
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            },
-            {
-                "Type": "Part",
-                "Children": [],
-                "Anchored": true,
-                "Size": [
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            },
-            {
-                "Type": "Part",
-                "Children": [],
-                "Anchored": true,
-                "Size": [
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            },
-            {
-                "Type": "Part",
-                "Children": [],
-                "Anchored": true,
-                "Size": [
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            },
-            {
-                "Type": "Part",
-                "Children": [],
-                "Anchored": true,
-                "Size": [
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            },
-            {
-                "Type": "Part",
-                "Children": [],
-                "Anchored": true,
-                "Size": [
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            },
-            {
-                "Type": "Part",
-                "Children": [],
-                "Anchored": true,
-                "Size": [
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            },
-            {
-                "Type": "Part",
+                "Name": "RBX149",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -1522,14 +1454,258 @@
             },
             {
                 "Type": "WedgePart",
+                "Name": "RBX150",
+                "Children": []
+            },
+            {
+                "Type": "Part",
+                "Name": "RBX151",
+                "Children": [],
+                "Anchored": true,
+                "Size": [
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "Type": "Part",
+                "Name": "RBX152",
+                "Children": [],
+                "Anchored": true,
+                "Size": [
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "Type": "WedgePart",
+                "Name": "RBX153",
+                "Children": []
+            },
+            {
+                "Type": "Part",
+                "Name": "RBX154",
+                "Children": [],
+                "Anchored": true,
+                "Size": [
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "Type": "Part",
+                "Name": "RBX155",
+                "Children": [],
+                "Anchored": true,
+                "Size": [
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "Type": "Part",
+                "Name": "RBX156",
+                "Children": [],
+                "Anchored": true,
+                "Size": [
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "Type": "Part",
+                "Name": "RBX157",
+                "Children": [],
+                "Anchored": true,
+                "Size": [
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "Type": "Part",
+                "Name": "RBX158",
+                "Children": [],
+                "Anchored": true,
+                "Size": [
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "Type": "Part",
+                "Name": "RBX159",
+                "Children": [],
+                "Anchored": true,
+                "Size": [
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "Type": "Part",
+                "Name": "RBX160",
+                "Children": [],
+                "Anchored": true,
+                "Size": [
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "Type": "Part",
+                "Name": "RBX161",
+                "Children": [],
+                "Anchored": true,
+                "Size": [
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "Type": "Part",
+                "Name": "RBX162",
+                "Children": [],
+                "Anchored": true,
+                "Size": [
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "Type": "Part",
+                "Name": "RBX163",
+                "Children": [],
+                "Anchored": true,
+                "Size": [
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "Type": "Part",
+                "Name": "RBX164",
+                "Children": [],
+                "Anchored": true,
+                "Size": [
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "Type": "Part",
+                "Name": "RBX165",
+                "Children": [],
+                "Anchored": true,
+                "Size": [
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "Type": "Part",
+                "Name": "RBX166",
+                "Children": [],
+                "Anchored": true,
+                "Size": [
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "Type": "Part",
+                "Name": "RBX167",
+                "Children": [],
+                "Anchored": true,
+                "Size": [
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "Type": "Part",
+                "Name": "RBX168",
+                "Children": [],
+                "Anchored": true,
+                "Size": [
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "Type": "Part",
+                "Name": "RBX169",
+                "Children": [],
+                "Anchored": true,
+                "Size": [
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "Type": "Part",
+                "Name": "RBX170",
+                "Children": [],
+                "Anchored": true,
+                "Size": [
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "Type": "Part",
+                "Name": "RBX171",
+                "Children": [],
+                "Anchored": true,
+                "Size": [
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "Type": "Part",
+                "Name": "RBX172",
+                "Children": [],
+                "Anchored": true,
+                "Size": [
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "Type": "WedgePart",
+                "Name": "RBX173",
                 "Children": []
             },
             {
                 "Type": "WedgePart",
+                "Name": "RBX174",
                 "Children": []
             },
             {
                 "Type": "Part",
+                "Name": "RBX175",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -1540,6 +1716,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX176",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -1550,9 +1727,11 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX177",
                 "Children": [
                     {
                         "Type": "BlockMesh",
+                        "Name": "RBX178",
                         "Children": []
                     }
                 ],
@@ -1565,6 +1744,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX179",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -1575,6 +1755,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX180",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -1585,6 +1766,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX181",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -1595,6 +1777,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX182",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -1605,6 +1788,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX183",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -1615,6 +1799,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX184",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -1625,9 +1810,11 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX185",
                 "Children": [
                     {
                         "Type": "BlockMesh",
+                        "Name": "RBX186",
                         "Children": []
                     }
                 ],
@@ -1640,9 +1827,11 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX187",
                 "Children": [
                     {
                         "Type": "BlockMesh",
+                        "Name": "RBX188",
                         "Children": []
                     }
                 ],
@@ -1655,6 +1844,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX189",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -1665,6 +1855,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX190",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -1675,6 +1866,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX191",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -1685,14 +1877,17 @@
             },
             {
                 "Type": "WedgePart",
+                "Name": "RBX192",
                 "Children": []
             },
             {
                 "Type": "TrussPart",
+                "Name": "RBX193",
                 "Children": []
             },
             {
                 "Type": "Part",
+                "Name": "RBX194",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -1703,6 +1898,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX195",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -1713,6 +1909,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX196",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -1723,204 +1920,7 @@
             },
             {
                 "Type": "Part",
-                "Children": [],
-                "Anchored": true,
-                "Size": [
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            },
-            {
-                "Type": "TrussPart",
-                "Children": []
-            },
-            {
-                "Type": "TrussPart",
-                "Children": []
-            },
-            {
-                "Type": "Part",
-                "Children": [],
-                "Anchored": true,
-                "Size": [
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            },
-            {
-                "Type": "Part",
-                "Children": [],
-                "Anchored": true,
-                "Size": [
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            },
-            {
-                "Type": "Part",
-                "Children": [],
-                "Anchored": true,
-                "Size": [
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            },
-            {
-                "Type": "Part",
-                "Children": [],
-                "Anchored": true,
-                "Size": [
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            },
-            {
-                "Type": "Part",
-                "Children": [],
-                "Anchored": true,
-                "Size": [
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            },
-            {
-                "Type": "Part",
-                "Children": [],
-                "Anchored": true,
-                "Size": [
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            },
-            {
-                "Type": "Part",
-                "Children": [],
-                "Anchored": true,
-                "Size": [
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            },
-            {
-                "Type": "Part",
-                "Children": [],
-                "Anchored": true,
-                "Size": [
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            },
-            {
-                "Type": "Part",
-                "Children": [],
-                "Anchored": true,
-                "Size": [
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            },
-            {
-                "Type": "Part",
-                "Children": [],
-                "Anchored": true,
-                "Size": [
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            },
-            {
-                "Type": "Part",
-                "Children": [],
-                "Anchored": true,
-                "Size": [
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            },
-            {
-                "Type": "Part",
-                "Children": [],
-                "Anchored": true,
-                "Size": [
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            },
-            {
-                "Type": "Part",
-                "Children": [],
-                "Anchored": true,
-                "Size": [
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            },
-            {
-                "Type": "Part",
-                "Children": [],
-                "Anchored": true,
-                "Size": [
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            },
-            {
-                "Type": "Part",
-                "Children": [],
-                "Anchored": true,
-                "Size": [
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            },
-            {
-                "Type": "Part",
-                "Children": [],
-                "Anchored": true,
-                "Size": [
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            },
-            {
-                "Type": "Part",
-                "Children": [],
-                "Anchored": true,
-                "Size": [
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            },
-            {
-                "Type": "Part",
-                "Children": [],
-                "Anchored": true,
-                "Size": [
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            },
-            {
-                "Type": "Part",
+                "Name": "RBX197",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -1931,18 +1931,241 @@
             },
             {
                 "Type": "TrussPart",
+                "Name": "RBX198",
                 "Children": []
             },
             {
                 "Type": "TrussPart",
+                "Name": "RBX199",
+                "Children": []
+            },
+            {
+                "Type": "Part",
+                "Name": "RBX200",
+                "Children": [],
+                "Anchored": true,
+                "Size": [
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "Type": "Part",
+                "Name": "RBX201",
+                "Children": [],
+                "Anchored": true,
+                "Size": [
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "Type": "Part",
+                "Name": "RBX202",
+                "Children": [],
+                "Anchored": true,
+                "Size": [
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "Type": "Part",
+                "Name": "RBX203",
+                "Children": [],
+                "Anchored": true,
+                "Size": [
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "Type": "Part",
+                "Name": "RBX204",
+                "Children": [],
+                "Anchored": true,
+                "Size": [
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "Type": "Part",
+                "Name": "RBX205",
+                "Children": [],
+                "Anchored": true,
+                "Size": [
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "Type": "Part",
+                "Name": "RBX206",
+                "Children": [],
+                "Anchored": true,
+                "Size": [
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "Type": "Part",
+                "Name": "RBX207",
+                "Children": [],
+                "Anchored": true,
+                "Size": [
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "Type": "Part",
+                "Name": "RBX208",
+                "Children": [],
+                "Anchored": true,
+                "Size": [
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "Type": "Part",
+                "Name": "RBX209",
+                "Children": [],
+                "Anchored": true,
+                "Size": [
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "Type": "Part",
+                "Name": "RBX210",
+                "Children": [],
+                "Anchored": true,
+                "Size": [
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "Type": "Part",
+                "Name": "RBX211",
+                "Children": [],
+                "Anchored": true,
+                "Size": [
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "Type": "Part",
+                "Name": "RBX212",
+                "Children": [],
+                "Anchored": true,
+                "Size": [
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "Type": "Part",
+                "Name": "RBX213",
+                "Children": [],
+                "Anchored": true,
+                "Size": [
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "Type": "Part",
+                "Name": "RBX214",
+                "Children": [],
+                "Anchored": true,
+                "Size": [
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "Type": "Part",
+                "Name": "RBX215",
+                "Children": [],
+                "Anchored": true,
+                "Size": [
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "Type": "Part",
+                "Name": "RBX216",
+                "Children": [],
+                "Anchored": true,
+                "Size": [
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "Type": "Part",
+                "Name": "RBX217",
+                "Children": [],
+                "Anchored": true,
+                "Size": [
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "Type": "Part",
+                "Name": "RBX218",
+                "Children": [],
+                "Anchored": true,
+                "Size": [
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            {
+                "Type": "TrussPart",
+                "Name": "RBX219",
                 "Children": []
             },
             {
                 "Type": "TrussPart",
+                "Name": "RBX220",
+                "Children": []
+            },
+            {
+                "Type": "TrussPart",
+                "Name": "RBX221",
                 "Children": []
             },
             {
                 "Type": "Part",
+                "Name": "RBX222",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -1953,6 +2176,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX223",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -1963,14 +2187,17 @@
             },
             {
                 "Type": "TrussPart",
+                "Name": "RBX224",
                 "Children": []
             },
             {
                 "Type": "TrussPart",
+                "Name": "RBX225",
                 "Children": []
             },
             {
                 "Type": "Part",
+                "Name": "RBX226",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -1981,6 +2208,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX227",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -1991,6 +2219,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX228",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -2001,6 +2230,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX229",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -2011,6 +2241,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX230",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -2021,6 +2252,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX231",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -2031,6 +2263,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX232",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -2041,6 +2274,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX233",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -2051,6 +2285,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX234",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -2061,6 +2296,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX235",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -2071,6 +2307,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX236",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -2081,6 +2318,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX237",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -2091,6 +2329,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX238",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -2101,6 +2340,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX239",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -2111,6 +2351,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX240",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -2121,6 +2362,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX241",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -2131,6 +2373,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX242",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -2141,6 +2384,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX243",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -2151,6 +2395,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX244",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -2161,6 +2406,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX245",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -2171,6 +2417,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX246",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -2181,6 +2428,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX247",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -2191,6 +2439,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX248",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -2201,6 +2450,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX249",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -2211,6 +2461,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX250",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -2221,6 +2472,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX251",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -2231,6 +2483,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX252",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -2241,6 +2494,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX253",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -2251,6 +2505,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX254",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -2261,6 +2516,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX255",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -2271,6 +2527,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX256",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -2281,6 +2538,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX257",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -2291,6 +2549,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX258",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -2301,6 +2560,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX259",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -2311,6 +2571,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX260",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -2321,6 +2582,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX261",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -2331,6 +2593,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX262",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -2341,6 +2604,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX263",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -2351,6 +2615,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX264",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -2361,6 +2626,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX265",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -2371,6 +2637,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX266",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -2381,6 +2648,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX267",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -2391,14 +2659,17 @@
             },
             {
                 "Type": "WedgePart",
+                "Name": "RBX268",
                 "Children": []
             },
             {
                 "Type": "WedgePart",
+                "Name": "RBX269",
                 "Children": []
             },
             {
                 "Type": "Part",
+                "Name": "RBX270",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -2409,6 +2680,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX271",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -2419,6 +2691,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX272",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -2429,6 +2702,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX273",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -2439,6 +2713,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX274",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -2449,6 +2724,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX275",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -2459,6 +2735,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX276",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -2469,6 +2746,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX277",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -2479,6 +2757,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX278",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -2489,6 +2768,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX279",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -2499,6 +2779,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX280",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -2509,22 +2790,27 @@
             },
             {
                 "Type": "WedgePart",
+                "Name": "RBX281",
                 "Children": []
             },
             {
                 "Type": "WedgePart",
+                "Name": "RBX282",
                 "Children": []
             },
             {
                 "Type": "WedgePart",
+                "Name": "RBX283",
                 "Children": []
             },
             {
                 "Type": "WedgePart",
+                "Name": "RBX284",
                 "Children": []
             },
             {
                 "Type": "Part",
+                "Name": "RBX285",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -2535,6 +2821,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX286",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -2545,6 +2832,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX287",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -2555,6 +2843,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX288",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -2565,6 +2854,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX289",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -2575,6 +2865,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX290",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -2585,6 +2876,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX291",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -2595,6 +2887,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX292",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -2605,6 +2898,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX293",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -2615,6 +2909,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX294",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -2625,6 +2920,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX295",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -2635,6 +2931,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX296",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -2645,6 +2942,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX297",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -2655,38 +2953,47 @@
             },
             {
                 "Type": "TrussPart",
+                "Name": "RBX298",
                 "Children": []
             },
             {
                 "Type": "TrussPart",
+                "Name": "RBX299",
                 "Children": []
             },
             {
                 "Type": "TrussPart",
+                "Name": "RBX300",
                 "Children": []
             },
             {
                 "Type": "TrussPart",
+                "Name": "RBX301",
                 "Children": []
             },
             {
                 "Type": "TrussPart",
+                "Name": "RBX302",
                 "Children": []
             },
             {
                 "Type": "TrussPart",
+                "Name": "RBX303",
                 "Children": []
             },
             {
                 "Type": "TrussPart",
+                "Name": "RBX304",
                 "Children": []
             },
             {
                 "Type": "TrussPart",
+                "Name": "RBX305",
                 "Children": []
             },
             {
                 "Type": "Part",
+                "Name": "RBX306",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -2697,9 +3004,11 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX307",
                 "Children": [
                     {
                         "Type": "Script",
+                        "Name": "RBX308",
                         "Children": []
                     }
                 ],
@@ -2712,6 +3021,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX309",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -2722,14 +3032,17 @@
             },
             {
                 "Type": "WedgePart",
+                "Name": "RBX310",
                 "Children": []
             },
             {
                 "Type": "WedgePart",
+                "Name": "RBX311",
                 "Children": []
             },
             {
                 "Type": "Part",
+                "Name": "RBX312",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -2740,6 +3053,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX313",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -2750,6 +3064,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX314",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -2760,6 +3075,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX315",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -2770,6 +3086,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX316",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -2780,6 +3097,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX317",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -2790,6 +3108,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX318",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -2800,6 +3119,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX319",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -2810,6 +3130,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX320",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -2820,14 +3141,17 @@
             },
             {
                 "Type": "WedgePart",
+                "Name": "RBX321",
                 "Children": []
             },
             {
                 "Type": "WedgePart",
+                "Name": "RBX322",
                 "Children": []
             },
             {
                 "Type": "Part",
+                "Name": "RBX323",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -2838,6 +3162,7 @@
             },
             {
                 "Type": "Part",
+                "Name": "RBX324",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -2848,10 +3173,12 @@
             },
             {
                 "Type": "WedgePart",
+                "Name": "RBX325",
                 "Children": []
             },
             {
                 "Type": "Part",
+                "Name": "RBX326",
                 "Children": [],
                 "Anchored": true,
                 "Size": [
@@ -2862,10 +3189,12 @@
             },
             {
                 "Type": "WedgePart",
+                "Name": "RBX327",
                 "Children": []
             },
             {
                 "Type": "Camera",
+                "Name": "RBX328",
                 "Children": []
             }
         ]
